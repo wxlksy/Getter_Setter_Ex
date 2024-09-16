@@ -1,8 +1,6 @@
-#Getter_Setter_Ex
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-9A00F5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-
+# Getter_Setter_Ex
 
 Необходимо составить программу, которая помогает пользователю составить план поезда. 
 
